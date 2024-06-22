@@ -2,7 +2,7 @@
 
 ## Pimeiro exercício :
 
-Aqui vamos criar 6 faixas de cores cobrindo a tela inteira.accordion
+Aqui vamos criar 6 faixas de cores cobrindo a tela inteira.
 
 ## Segundo exercício :
 
